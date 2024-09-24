@@ -3,5 +3,6 @@ public class Main {
         System.out.println("Hello world!");
         String firstName = "Yosh";
         int age = 45;
+        boolean over6ft = true;
     }
 }
